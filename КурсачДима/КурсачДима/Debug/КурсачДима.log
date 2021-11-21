@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(311,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(318,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(363,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(601,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\main.cpp(81): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ShowInfo<Student>(Type,std::string,int)"
+          with
+          [
+              Type=Student
+          ]
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(603,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(604,11): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(606,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(639,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(491,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\main.cpp(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RedactInfo<Student>(Type,std::string)"
+          with
+          [
+              Type=Student
+          ]
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(505,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(513,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(548,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\main.cpp(124): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DeleteInfo<Student>(Type,std::string)"
+          with
+          [
+              Type=Student
+          ]
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(558,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(566,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(689,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\main.cpp(202): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FindInfo<Student>(Type,std::string)"
+          with
+          [
+              Type=Student
+          ]
+C:\Users\chirv\source\repos\КурсачДима\КурсачДима\Functions.h(699,21): warning C4018: <: несоответствие типов со знаком и без знака
+  КурсачДима.vcxproj -> C:\Users\chirv\source\repos\КурсачДима\Debug\КурсачДима.exe
